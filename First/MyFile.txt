@@ -1,0 +1,5 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is C6D5-5153
+
+ Directory of D:\BatchScripting
+
